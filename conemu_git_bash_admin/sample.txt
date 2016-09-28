@@ -1,0 +1,1 @@
+"%ConEmuDrive%\Program Files (x86)\Git\bin\sh.exe" --login -i -new_console:a
