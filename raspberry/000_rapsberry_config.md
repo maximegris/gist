@@ -1,5 +1,9 @@
 # Useful raspberry commands
 
+Remove apps
+-----------
+`sudo apt-get purge minecraft-pi`
+
 Users
 -----------
 

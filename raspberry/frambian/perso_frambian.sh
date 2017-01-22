@@ -68,6 +68,6 @@ echo "Fichiers inutiles"
 sudo rm /opt/vc/src/hello_pi/hello_video/test.h264
 sudo rm /usr/lib/gcc/arm-linux-gnueabihf/4.6/cc1plus
 
-# Fin de la procédure
-echo "Fin de la précédure"
+# Fin de la procÃ©dure
+echo "Fin de la procÃ©dure"
 df -h
